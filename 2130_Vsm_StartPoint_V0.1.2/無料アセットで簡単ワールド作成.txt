@@ -1,0 +1,21 @@
+# Cluster　用　Pakageのベース
+
+無料アセットで簡単ワールド作成
+https://creator.cluster.mu/2020/02/28/tutorial-world-create/
+
+
+「Project」から「Scenes」>「MinimalSample」
+
+アセット　ストアから無料アセットをダウンロード
+「RPG Poly Pack」
+https://assetstore.unity.com/packages/3d/environments/landscapes/rpg-poly-pack-lite-148410
+
+https://techacademy.jp/magazine/2222
+
+
+「Scene（シーン） 」ウィンドウに戻り、インポートしたアセットの「Prefab（プレハブ）」から
+「Rocks」にある岩のプレハブをシーンビュー内にドラッグアンドドロップして配置します。
+
+オブジェクトが意図しない位置に配置されてしまう場合は、「Inspector」の「Transform」にある
+「Position」の座標値をすべて0にしてから移動させましょう。
+
