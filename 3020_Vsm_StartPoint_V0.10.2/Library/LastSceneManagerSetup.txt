@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Vsm/Asset_Rpgpp.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
